@@ -1,0 +1,4 @@
+echo "hai"
+date
+cal 
+
