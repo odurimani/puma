@@ -1,0 +1,9 @@
+
+{
+  "message": "Bad credentials",
+  "documentation_url": "https://docs.github.com/rest"
+}
+{
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest/reference/repos#create-an-organization-repository"
+}
